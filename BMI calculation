@@ -1,0 +1,13 @@
+**BMI (Weight Checkup System) – JavaScript, HTML, CSS**
+Developed an interactive web-based application to calculate Body Mass Index (BMI) with **98% accuracy**. The system takes user inputs for height and weight, applies the BMI formula, and categorizes the results (Underweight, Normal, Overweight, Obese) based on WHO standards. Implemented input validation for accurate results and responsive UI design for mobile and desktop.
+
+**Key Features:**
+
+* Real-time BMI calculation using JavaScript.
+* User-friendly interface designed with HTML & CSS.
+* Validation to prevent incorrect data entry.
+* Clear result display with health category indicators.
+* Accuracy maintained at approximately 98%.
+
+**Tools & Technologies:** HTML, CSS, JavaScript
+
